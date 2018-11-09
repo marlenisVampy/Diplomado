@@ -1,0 +1,261 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>Vampy´s Presentation</title>
+
+		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
+		<meta name="author" content="Hakim El Hattab">
+
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="css/reveal.css">
+		<link rel="stylesheet" href="css/theme/black.css" id="theme">
+
+		<!-- Theme used for syntax highlighting of code -->
+		<link rel="stylesheet" href="lib/css/zenburn.css">
+
+		<!-- Printing and PDF exports -->
+		<script>
+			var link = document.createElement( 'link' );
+			link.rel = 'stylesheet';
+			link.type = 'text/css';
+			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
+			document.getElementsByTagName( 'head' )[0].appendChild( link );
+		</script>
+
+		<!--[if lt IE 9]>
+		<script src="lib/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<!-- Any section element inside of this container is displayed as a slide -->
+			<div class="slides">
+				<section>
+					<!--<h1>Vampy</h1>-->
+					<h2>Diplomado JavaScript, CSS3 y HTML5</h2>
+					<p>
+						<small>Creado por <a href="http://hakim.se">Marlenis Judith Concepcion Cuevas</a>, disponible en <a href="https://github.com/marlenisVampy">Github</a></small>
+					</p>
+				</section>
+
+				<section>
+					<h2>Saludos!!</h2>
+					<p>
+						Esta presentaci&oacute;n tiene como finalidad introducirnos en algunos conceptos b&aacute;sicos de programaci&oacute;n Web a la vez dar un poco a conocer mi persona.
+					</p>
+				</section>
+
+				<!-- HTML -->
+				<section>
+					<section>
+						<h2>HTML</h2>
+						<p>Es un lenguaje de marcado que se utiliza para el desarrollo de páginas de Internet. Se trata de la sigla que corresponde a HyperText Markup Language, es decir, Lenguaje de Marcas de Hipertexto, que podría ser traducido como Lenguaje de Formato de Documentos para Hipertexto.</p>
+						<p><em></em></p>
+						<br>
+						<a href="#" class="navigate-down">
+							<img width="178" height="238" data-src="https://i1.wp.com/userlogos.org/files/logos/Rog/w3schools.com_02.png" alt="Down arrow">
+						</a>
+					</section>
+					<section>
+						<h2>Referencias para aprender HTML</h2>
+						<img src="HmtlReferencia.jpg">
+						<!--<p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>-->
+					</section>
+					<section>
+						<h2>Curso Html en W3S</h2>
+						<!--<p>That's it, time to go back up.</p>-->
+						<img src="referenciaHtml2.png">
+						<br>
+						<a href="#/2">
+							<img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
+						</a>
+					</section>
+				</section>
+							<!--HTML5-->
+				<section>
+					<section>
+						<h2>HTML5</h2>
+						<p>
+							Es la última versión de HTML. El término representa dos conceptos diferentes: Se trata de una nueva versión de HTML, con nuevos elementos, atributos y comportamientos. Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones ser más diversas y de gran alcance. <a href="https://www.w3schools.com/html/html5_intro.asp" target="_blank">https://www.w3schools.com/html/html5_intro.asp</a>.
+						</p>
+						<a href="#" class="navigate-down">
+							<img width="178" height="238" data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png" alt="Down arrow">
+						</a>
+					</section>
+					<section>
+						<h2>Referencias para aprender HTML5</h2>
+						<img src="Hmtl5Referencia.jpg">
+					</section>
+
+				</section>
+
+
+<!-- JAVASCRIPT -->
+				<section>
+					<section>
+						<h2>JavaScript</h2>
+						<p>es un lenguaje ligero e interpretado, orientado a objetos con  funciones de primera clase, más conocido como el lenguaje de script para páginas web, pero también usado en muchos entornos sin navegador, tales como   node.js, Apache CouchDB y Adobe Acrobat. Es un lenguaje script multi-paradigma, basado en prototipos,  dinámico, soporta estilos de programación funcional, orientada a objetos e imperativa.</p>
+						<a href="#" class="navigate-down">
+							<img width="178" height="238" data-src="https://i.blogs.es/544e7d/650_1000_javascript_logo/450_1000.png" alt="Down arrow">
+						</a>
+					</section>
+					
+					<section>
+						<h2>Inicio de JavaScript</h2>
+						<img src="javascripts04.png">
+						<!--<p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>-->
+					</section>
+
+					<section>
+						<h2>Referencias para aprender JavaScript</h2>
+						<img src="javascripts03.png">
+						<!--<p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>-->
+					</section>
+
+
+					<section>
+						<h2>Ejemplo 1 JavaScript</h2>
+						<img src="javascripts01.png">
+						<!--<p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>-->
+					</section>
+					<section>
+						<p>Ejemplo 2 JavaScript</p>
+						<!--<p>That's it, time to go back up.</p>-->
+						<img src="javascripts02.png">
+						<br>
+						<a href="#/2">
+							<img width="178" height="238" data-src="https://i.blogs.es/544e7d/650_1000_javascript_logo/450_1000.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
+						</a>
+					</section>
+				</section>
+					<!--CSS-->
+				<section>
+					<section>
+						<h2>SCC</h2>
+						<p>Siglas de Cascading Style Sheets(Hojas de Estilo en Cascada), describe la presentación de los documentos estructurados en hojas de estilo para diferentes métodos de interpretación. Desarrollada por el W3C,permiten la separación de los documentos escritos en HTML, XML, XHTML, SVG, o XUL de la presentación del documento con las hojas de estilo, incluye elementos como: los colores, fondos, márgenes, bordes, tipos de letra...,permitiendo a los desarrolladores controlar el estilo y formato de sus documentos. </p>					 
+						
+						<a href="#" class="navigate-down">
+							<img width="178" height="238" data-src="https://i.blogs.es/544e7d/650_1000_javascript_logo/450_1000.png" alt="Down arrow">
+						</a>
+					</section>
+					
+					<section>
+						<h2> Versiones CSS</h2>
+
+						<p align="justify">	Las versiones de CSS a lo largo de la historia han sido:
+							<lu>
+							<br>CSS 1: publicada en 1996.
+						    <br>CSS 2: publicada en 1998.
+							<br>CSS 2.1: publicada en 2004.
+							<br>CSS 3: publicada en 2011.
+						    <br>CSS 4: se estima que pueda ser especificación oficial en 2019.			
+						</p>
+											
+					</section>
+
+					<section>
+						<h2>Referencia CSS</h2>
+						<img src="cssfuente2.jpg">
+						<!--<p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>-->
+					</section>
+
+					<section>
+						<h2></h2>
+						<img src="cssfuente.jpg">
+						<!--<p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>-->
+					</section>
+				
+					<section>
+						<p>Ejemplo CSS </p>
+						<!--<p>That's it, time to go back up.</p>-->
+						<img src="cssfuente3.png">
+						<br>
+						<a href="#/2">
+							<img width="178" height="238" data-src="" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
+						</a>
+					</section>
+				</section>
+
+<!--pasatiempos-->
+			<section>
+						<h2>Mis pasatiempos</h2>
+						
+						<!--<p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>-->
+					</section>
+
+				<section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom">
+					<h2>Montar Bicicleta</h2>
+				<img src="bicleta01.jpg">
+					<!--<pre><code class="hljs">Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>-->
+				</section>
+
+				<section data-transition="slide" data-background="#b5533c" data-background-transition="zoom">
+					<h2>Largas Caminatas</h2>
+					<img src="caminar01.jpg">
+					
+				<!--	<pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background-transition="zoom"&gt;</code></pre>-->
+				</section>
+					<section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom">
+					<h2>Ver películas</h2>
+				<img src="peliculas01.jpg">
+					<!--<pre><code class="hljs">Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>-->
+					</section>
+
+
+					<section>
+						<h2>Mi video favorito</h2>
+						<video src="videoAndrea.mp4" width="640" height="480"></video>
+					</section>
+
+
+			
+						<section img="gracias.jpg" width="640" height="480">
+						
+					</section>
+				
+
+					
+			</div>
+
+		</div>
+
+		<script src="lib/js/head.min.js"></script>
+		<script src="js/reveal.js"></script>
+
+		<script>
+
+			// More info https://github.com/hakimel/reveal.js#configuration
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+
+				transition: 'slide', // none/fade/slide/convex/concave/zoom
+
+				// More info https://github.com/hakimel/reveal.js#dependencies
+				dependencies: [
+					{ src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
+					{ src: 'plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+					{ src: 'plugin/search/search.js', async: true },
+					{ src: 'plugin/zoom-js/zoom.js', async: true },
+					{ src: 'plugin/notes/notes.js', async: true }
+				]
+			});
+
+		</script>
+
+	</body>
+</html>
